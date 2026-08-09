@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b5ddb96-0ff3-4ecc-91a8-706bea73ce40">
+  <name>ОтчетыФилиалов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчеты филиалов</value>
+  </synonym>
+  <comment>Учебный дефект для курса 1С:Напарник: ссылка на несуществующий метод для демо «агент читает маркеры EDT и исправляет причину».</comment>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
